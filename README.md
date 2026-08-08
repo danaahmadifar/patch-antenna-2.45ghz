@@ -10,8 +10,8 @@ Ziel war es, eine Inset-Fed Patch-Antenne für 2,45 GHz zu berechnen, zu simulie
 
 * **Resonanzfrequenz:** 2,45 GHz
 * **Material:** FR4-Epoxy (Dicke = 1,6 mm, $\epsilon_r = 4,4$)
-* **Patch-Größe:** Breite $W = 37,23	ext{ mm}$, Länge $L = 28,81	ext{ mm}$
-* **Einschnitt (Inset):** Tiefe $d = 10,59	ext{ mm}$, Spaltbreite $s = 0,5	ext{ mm}$
+* **Patch-Größe:** Breite W = 37,23 mm, Länge L = 28,81	mm
+* **Einschnitt (Inset):** Tiefe d = 10,59 mm, Spaltbreite s = 0,5	mm
 * **Zuleitung:** 50-Ohm-Mikrostreifenleitung (Breite = 3,06 mm)
 
 ---
@@ -41,15 +41,15 @@ Ziel war es, eine Inset-Fed Patch-Antenne für 2,45 GHz zu berechnen, zu simulie
 
 * `docs/` - Der vollständige Laborbericht als PDF
 * `cad/` - Gerber-Dateien zum Fräsen (Top, Bottom, Outline)
-* `images/` - Fotos von den fertigen Platinen und den Messungen
+* `images/` - Foto von den fertigen Platinen
 
 ---
 
 ## Gruppe
 
-* Dana Ahmadifar
+* Dana Ahmadi Far
 * Niklas Walther
 * Mehran Akbarzadeh
 * Armin Nikdel Amand
 
-**Betreuung:** Prof. Dr.-Ing. Jörg Braune (BHT)
+**Betreuung:** Ing. Jörg Braune (BHT)
