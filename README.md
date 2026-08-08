@@ -40,7 +40,6 @@ Ziel war es, eine Inset-Fed Patch-Antenne für 2,45 GHz zu berechnen, zu simulie
 ## Ordnerstruktur
 
 * `docs/` - Der vollständige Laborbericht als PDF
-* `simulation/` - Dateien aus HFSS und ADS
 * `cad/` - Gerber-Dateien zum Fräsen (Top, Bottom, Outline)
 * `images/` - Fotos von den fertigen Platinen und den Messungen
 
